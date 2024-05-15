@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1028C](https://codeforces.com/problemset/problem/1028/C) | First of all, figure out the conditions of rectangles having a common point. Then you need to calculate whether the conditions are satisfied when deleting one rectangle. | TBD |
-| 2200 | [CF852F](https://codeforces.com/problemset/problem/852/F) | Use Logarithm. | TBD |
+| 1700 | [CF954C](https://codeforces.com/problemset/problem/954/C) | What can be the difference between two neighboring positions? | TBD |
+| 2000 | [CF490E](https://codeforces.com/problemset/problem/490/E) | When filling in the blanks from the first number to the last, you should always write the smallest number possible. | TBD |
