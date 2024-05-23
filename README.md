@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF917A](https://codeforces.com/problemset/problem/917/A) | When given a string, find the conditions it should satisfy to be "pretty". | TBD |
-| 1900 | [CF335B](https://codeforces.com/problemset/problem/335/B) | If you find the longest palindrome subsequence, you call always get the answer. But if it is longer than $100$, you can output a string of length $100$. | TBD |
+| 1700 | [CF900C](https://codeforces.com/problemset/problem/900/C) | What conditions should an element satisfy if it stays in the final result? What's the contribution of deleting one element? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0523/solution/cf900c.md) |
+| 2000 | [CF501D](https://codeforces.com/problemset/problem/501/D) | You need to do $2$ things: find the order of one permutation; find the $k$-th permutation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0523/solution/cf501d.md) |
