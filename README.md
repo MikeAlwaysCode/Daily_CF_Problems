@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1095D](https://codeforces.com/problemset/problem/1095/D) | If you decide one edge, the whole circle should be fully determined. | TBD |
-| 2100 | [CF301B](https://codeforces.com/problemset/problem/301/B) | Just find the shortest path. Note that $a_i\leq 10^3\leq d$ . | TBD |
+| 1800 | [CF1954D](https://codeforces.com/problemset/problem/1954/D) | Considering one set, if we know the number of balls of each color, what should be the minimum number of groups? How is it determined? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0527/solution/cf1954d.md) |
+| 1900 | [CF835D](https://codeforces.com/problemset/problem/835/D) | Classic DP because one $k$-palindrome consists of two $k-1$-palindromes. You can use the result of the smaller substrings to decide the answer of the larger strings. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0527/solution/cf835d.md) |
